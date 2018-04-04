@@ -1,0 +1,5 @@
+F:\Study Material\Design Pattern Learning\XMLStreamingToObject\XMLStreamingToObject\bin\Debug\XMLStreamingToObject.dll
+F:\Study Material\Design Pattern Learning\XMLStreamingToObject\XMLStreamingToObject\bin\Debug\XMLStreamingToObject.pdb
+F:\Study Material\Design Pattern Learning\XMLStreamingToObject\XMLStreamingToObject\obj\Debug\XMLStreamingToObject.dll
+F:\Study Material\Design Pattern Learning\XMLStreamingToObject\XMLStreamingToObject\obj\Debug\XMLStreamingToObject.pdb
+F:\Study Material\Design Pattern Learning\XMLStreamingToObject\XMLStreamingToObject\obj\Debug\XMLStreamingToObject.csprojResolveAssemblyReference.cache

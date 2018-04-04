@@ -1,0 +1,8 @@
+﻿<Customer>
+  <CustomerID>ALFKI</CustomerID>
+  <CompanyName>Alfreds Futterkiste</CompanyName>
+  <ContactName>Maria Anders</ContactName>
+  <ContactTitle>Sales Representative</ContactTitle>
+  <Address>Obere Str. 57</Address>
+  <City>Berlin</City> 
+</Customer>
